@@ -1,4 +1,4 @@
-| Syntax | Description |
+| Service | Hourly Rate |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| MMM | $80 |
+| LDA | $100 |
