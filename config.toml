@@ -18,7 +18,7 @@ description = "John Doe's personal website"
 keywords = "blog,developer,personal"
 info = ["Full Bayesian Machine Learner", "Owner of DRC Lab"]
 avatarURL = "images/phd.jpg"
-gravatar = "john.doe@example.com"
+#gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
 since = 2016
 # Git Commit in Footer, uncomment the line below to enable it
