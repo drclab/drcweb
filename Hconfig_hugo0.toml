@@ -1,4 +1,0 @@
-baseURL = 'http://drclab.dulun.com/'
-languageCode = 'en-us'
-title = 'DRC Lab'
-theme = "hugo-coder"
