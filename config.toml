@@ -125,24 +125,16 @@ url = "https://gitlab.com/gitlun/"
 name = "LinkedIn"
 icon = "fa fa-2x fa-linkedin"
 weight = 4
-url = "https://www.linkedin.com/in/johndoe/"
-
-#[[params.social]]
-#name = "Medium"
-#icon = "fa fa-2x fa-medium"
-#weight = 5
-#url = "https://medium.com/@johndoe"
+url = "https://www.linkedin.com/in/cj-duan-3ab27a191/"
 
 [[params.social]]
-name = "RSS"
-icon = "fa fa-2x fa-rss"
-weight = 6
-url = "https://myhugosite.com/index.xml"
-rel = "alternate"
-type = "application/rss+xml"
+name = "Mail"
+icon = "fa fa-2x fa-envelope"
+weight = 5
+url = "mailto:compute@dulun.com"
 
 [languages.en]
-languageName = ":uk:"
+languageName = ":us:"
 
 [[languages.en.menu.main]]
 name = "Services"
