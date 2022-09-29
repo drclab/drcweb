@@ -153,6 +153,6 @@ weight = 3
 url = "lda/"
 
 [[languages.en.menu.main]]
-name = "Contact Lab"
+name = "Bayesian Stats"
 weight = 5
-url = "contact/"
+url = "stats/"
