@@ -1,5 +1,5 @@
-baseURL = "http://www.example.com"
-title = "johndoe"
+baseURL = "http://drclab.dulun.com"
+title = "DRC Lab"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
