@@ -139,20 +139,20 @@ languageName = ":us:"
 [[languages.en.menu.main]]
 name = "State-Space|HMM"
 weight = 1
-url = "hmm/"
+url = "hmm"
 
 [[languages.en.menu.main]]
 name = "MCI|MMM|EHR"
 weight = 2
-url = "mci/"
+url = "mci"
 
 
 [[languages.en.menu.main]]
 name = "LDA|Mixture"
 weight = 3
-url = "lda/"
+url = "lda"
 
 [[languages.en.menu.main]]
 name = "Bayesian Stats"
 weight = 5
-url = "stats/"
+url = "stats"
