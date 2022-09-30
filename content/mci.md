@@ -1,5 +1,5 @@
 ---
-title: "Mci"
+title: "Multiple Cause Inference"
 date: 2022-09-30T10:57:23-04:00
 draft: false
 ---
