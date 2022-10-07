@@ -6,4 +6,4 @@ draft: false
 
 |Article|Key Word|DOI|
 |:---:|:---:|:---:|
-|asd|dfg|hjkl|
+|Regularised B-splines projected Gaussian Process priors to estimate time-trends of age-specific COVID-19 deaths related to vaccine roll-out|Bayesian Inference, Gaussian Processes, Splines, Non-parametric estimation, COVID-19|[10.14469/hpc/2232](https://github.com/ImperialCollegeLondon/B-SplinesProjectedGPs)|
