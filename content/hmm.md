@@ -8,7 +8,7 @@ tags: ["hugo"]
 
 <style>
 td, th {
-   border: none!important;
+   border: 2px ! important;
 }
 </style>
 
