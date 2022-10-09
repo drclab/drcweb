@@ -5,9 +5,6 @@ draft: false
 tags: ["hugo"]
 ---
 
-| Title | Journal |DOI |
-|:-- | :-------- |:-----|
-| Exposing model bias in machine learning revisiting the boy who cried wolf in the context of phishing detection |Journal of Business Analytics |[10.1080/ 2573234X. 2021. 1934128](https://doi.org/10.1080/2573234X.2021.1934128)|
 
 
 | Article | Key Words | DOI |
