@@ -137,7 +137,7 @@ url = "mailto:compute@dulun.com"
 languageName = ":us:"
 
 [[languages.en.menu.main]]
-name = "State-Space|HMM"
+name = "State-Space|MRF|HMM"
 weight = 1
 url = "hmm"
 
