@@ -6,6 +6,11 @@ tags: ["hugo"]
 ---
 
 
+<style>
+td, th {
+   border: none!important;
+}
+</style>
 
 | Article | Key Words | DOI |
 |:---|:---|:---:|
