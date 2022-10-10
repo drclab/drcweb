@@ -3184,29 +3184,26 @@ th,
 td {
   padding: 1.6rem; }
 
-th {
-  text-align: center; }
-
 table {
-  border-collapse: separate; }
+  border-collapse: collapse; }
 
 table td,
 table th {
-  border: 1px solid #000; }
+  border: 2px solid #000; }
 
 table tr:first-child th {
-  border-top: 1px; }
+  border-top: 0; }
 
 table tr:last-child td {
-  border-bottom: 1px; }
+  border-bottom: 0; }
 
 table tr td:first-child,
 table tr th:first-child {
-  border-left: 1px; }
+  border-left: 0; }
 
 table tr td:last-child,
 table tr th:last-child {
-  border-right: 1px; }
+  border-right: 0; }
 
 img {
   max-width: 100%; }

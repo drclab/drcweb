@@ -1,6 +1,6 @@
 baseURL = "http://drclab.dulun.com"
 title = "DRC Lab"
-theme = "hugo-coder"
+theme = "dulun"
 languageCode = "en"
 defaultContentLanguage = "en"
 paginate = 20
